@@ -1,10 +1,14 @@
 {
   "name": "NetLand",
-  "author": "SunRt233, Xfunny",
-  "version": "0.2",
-  "description": "请使用LittleSkin或正版登录验证\\n",
+  "author": "SunRt233,X-Funny",
+  "version": "0.3",
+  "description": "\u003c!doctype html\u003e\n      \u003chtml\u003e\n      \u003chead\u003e\n        \u003cmeta charset\u003d\"utf-8\"/\u003e\n        \u003ctitle\u003e新建笔记(2023/1/3)\u003c/title\u003e\n        \n        \u003cstyle\u003e\n          html, body { margin: 0; padding: 0; background-color: #ffffff; }\n          .markdown-body { box-sizing: border-box; min-width: 200px; max-width: 980px; margin: 0 auto; padding: 45px; }\n          @media (max-width: 767px) { .markdown-body { padding: 15px; } }\n          .markdown-body {\n  -ms-text-size-adjust: 100%;\n  -webkit-text-size-adjust: 100%;\n  line-height: 1.5;\n  color: #24292e;\n  font-family: system-ui, -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;;\n  font-size: 16px;\n  line-height: 1.5;\n  word-wrap: break-word;\n}\n\n.markdown-body details {\n  display: block;\n}\n\n.markdown-body summary {\n  display: list-item;\n}\n\n.markdown-body a {\n  background-color: initial;\n}\n\n.markdown-body a:active,\n.markdown-body a:hover {\n  outline-width: 0;\n}\n\n.markdown-body strong {\n  font-weight: inherit;\n  font-weight: bolder;\n}\n\n.markdown-body h1 {\n  font-size: 2em;\n  margin: .67em 0;\n}\n\n.markdown-body img {\n  border-style: none;\n}\n\n.markdown-body code,\n.markdown-body kbd,\n.markdown-body pre {\n  font-family: monospace,monospace;\n  font-size: 1em;\n}\n\n.markdown-body hr {\n  box-sizing: initial;\n  height: 0;\n  overflow: visible;\n}\n\n.markdown-body input {\n  font: inherit;\n  margin: 0;\n}\n\n.markdown-body input {\n  overflow: visible;\n}\n\n.markdown-body [type\u003dcheckbox] {\n  box-sizing: border-box;\n  padding: 0;\n}\n\n.markdown-body * {\n  box-sizing: border-box;\n}\n\n.markdown-body input {\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;\n}\n\n.markdown-body a {\n  color: #0366d6;\n  text-decoration: none;\n}\n\n.markdown-body a:hover {\n  text-decoration: underline;\n}\n\n.markdown-body strong {\n  font-weight: 600;\n}\n\n.markdown-body hr {\n  height: 0;\n  margin: 15px 0;\n  overflow: hidden;\n  background: transparent;\n  border: 0;\n  border-bottom: 1px solid #dfe2e5;\n}\n\n.markdown-body hr:after,\n.markdown-body hr:before {\n  display: table;\n  content: \"\";\n}\n\n.markdown-body hr:after {\n  clear: both;\n}\n\n.markdown-body table {\n  border-spacing: 0;\n  border-collapse: collapse;\n}\n\n.markdown-body td,\n.markdown-body th {\n  padding: 0;\n}\n\n.markdown-body details summary {\n  cursor: pointer;\n}\n\n.markdown-body kbd {\n  display: inline-block;\n  padding: 3px 5px;\n  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;\n  line-height: 10px;\n  color: #444d56;\n  vertical-align: middle;\n  background-color: #fafbfc;\n  border: 1px solid #d1d5da;\n  border-radius: 3px;\n  box-shadow: inset 0 -1px 0 #d1d5da;\n}\n\n.markdown-body h1,\n.markdown-body h2,\n.markdown-body h3,\n.markdown-body h4,\n.markdown-body h5,\n.markdown-body h6 {\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.markdown-body h1 {\n  font-size: 32px;\n}\n\n.markdown-body h1,\n.markdown-body h2 {\n  font-weight: 600;\n}\n\n.markdown-body h2 {\n  font-size: 24px;\n}\n\n.markdown-body h3 {\n  font-size: 20px;\n}\n\n.markdown-body h3,\n.markdown-body h4 {\n  font-weight: 600;\n}\n\n.markdown-body h4 {\n  font-size: 16px;\n}\n\n.markdown-body h5 {\n  font-size: 14px;\n}\n\n.markdown-body h5,\n.markdown-body h6 {\n  font-weight: 600;\n}\n\n.markdown-body h6 {\n  font-size: 12px;\n}\n\n.markdown-body p {\n  margin-top: 0;\n  margin-bottom: 10px;\n}\n\n.markdown-body blockquote {\n  margin: 0;\n}\n\n.markdown-body ol,\n.markdown-body ul {\n  padding-left: 0;\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.markdown-body ol ol,\n.markdown-body ul ol {\n  list-style-type: lower-roman;\n}\n\n.markdown-body ol ol ol,\n.markdown-body ol ul ol,\n.markdown-body ul ol ol,\n.markdown-body ul ul ol {\n  list-style-type: lower-alpha;\n}\n\n.markdown-body dd {\n  margin-left: 0;\n}\n\n.markdown-body code,\n.markdown-body pre {\n  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;\n  font-size: 12px;\n}\n\n.markdown-body pre {\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.markdown-body input::-webkit-inner-spin-button,\n.markdown-body input::-webkit-outer-spin-button {\n  margin: 0;\n  -webkit-appearance: none;\n  appearance: none;\n}\n\n.markdown-body :checked+.radio-label {\n  position: relative;\n  z-index: 1;\n  border-color: #0366d6;\n}\n\n.markdown-body hr {\n  border-bottom-color: #eee;\n}\n\n.markdown-body kbd {\n  display: inline-block;\n  padding: 3px 5px;\n  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;\n  line-height: 10px;\n  color: #444d56;\n  vertical-align: middle;\n  background-color: #fafbfc;\n  border: 1px solid #d1d5da;\n  border-radius: 3px;\n  box-shadow: inset 0 -1px 0 #d1d5da;\n}\n\n.markdown-body:after,\n.markdown-body:before {\n  display: table;\n  content: \"\";\n}\n\n.markdown-body:after {\n  clear: both;\n}\n\n.markdown-body\u003e:first-child {\n  margin-top: 0!important;\n}\n\n.markdown-body\u003e:last-child {\n  margin-bottom: 0!important;\n}\n\n.markdown-body a:not([href]) {\n  color: inherit;\n  text-decoration: none;\n}\n\n.markdown-body blockquote,\n.markdown-body details,\n.markdown-body dl,\n.markdown-body ol,\n.markdown-body p,\n.markdown-body pre,\n.markdown-body table,\n.markdown-body ul {\n  margin-top: 0;\n  margin-bottom: 16px;\n}\n\n.markdown-body hr {\n  height: .25em;\n  padding: 0;\n  margin: 24px 0;\n  background-color: #e1e4e8;\n  border: 0;\n}\n\n.markdown-body blockquote {\n  padding: 0 1em;\n  color: #6a737d;\n  border-left: .25em solid #dfe2e5;\n}\n\n.markdown-body blockquote\u003e:first-child {\n  margin-top: 0;\n}\n\n.markdown-body blockquote\u003e:last-child {\n  margin-bottom: 0;\n}\n\n.markdown-body h1,\n.markdown-body h2,\n.markdown-body h3,\n.markdown-body h4,\n.markdown-body h5,\n.markdown-body h6 {\n  margin-top: 24px;\n  margin-bottom: 16px;\n  font-weight: 600;\n  line-height: 1.25;\n}\n\n.markdown-body h1 {\n  font-size: 2em;\n}\n\n.markdown-body h1,\n.markdown-body h2 {\n  padding-bottom: .3em;\n  border-bottom: 1px solid #eaecef;\n}\n\n.markdown-body h2 {\n  font-size: 1.5em;\n}\n\n.markdown-body h3 {\n  font-size: 1.25em;\n}\n\n.markdown-body h4 {\n  font-size: 1em;\n}\n\n.markdown-body h5 {\n  font-size: .875em;\n}\n\n.markdown-body h6 {\n  font-size: .85em;\n  color: #6a737d;\n}\n\n.markdown-body ol,\n.markdown-body ul {\n  padding-left: 2em;\n}\n\n.markdown-body ol ol,\n.markdown-body ol ul,\n.markdown-body ul ol,\n.markdown-body ul ul {\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.markdown-body li {\n  word-wrap: break-all;\n}\n\n.markdown-body li\u003ep {\n  margin-top: 16px;\n}\n\n.markdown-body li+li, .markdown-body li \u003e ul {\n  margin-top: .25em;\n}\n\n.markdown-body ul li.task-list-item {\n  position: relative;\n  appearance: none;\n  list-style: none;\n}\n\n.markdown-body ul li.task-list-item.checked {\n  text-decoration-line: line-through;\n  color: #6e6e6e;\n}\n\n.markdown-body ul li.task-list-item:not(.checked) {\n  color: initial;\n}\n\n.markdown-body ul li.task-list-item::before {\n  content: \u0027\u0027;\n  width: 13px;\n  height: 13px;\n  background-color: #fff;\n  position: absolute;\n  left: -28px;\n  top: 4px;\n  border-radius: 2px;\n  border: 2px solid #757575;\n}\n\n.markdown-body ul li.task-list-item.checked::before {\n  background-color: #1976d2;\n  border-color: #1976d2;\n}\n\n.markdown-body ul li.task-list-item.checked::after {\n  content: \u0027\u0027;\n  position: absolute;\n  left: -22px;\n  top: 5px;\n  width: 4px;\n  height: 10px;\n  border: solid #fff;\n  border-width: 0 2px 2px 0;\n  transform: rotate(45deg);\n}\n\n.markdown-body dl {\n  padding: 0;\n}\n\n.markdown-body dl dt {\n  padding: 0;\n  margin-top: 16px;\n  font-size: 1em;\n  font-style: italic;\n  font-weight: 600;\n}\n\n.markdown-body dl dd {\n  padding: 0 16px;\n  margin-bottom: 16px;\n}\n\n.markdown-body table {\n  width: 100%;\n  overflow: auto;\n}\n\n.markdown-body table th {\n  font-weight: 600;\n}\n\n.markdown-body table td,\n.markdown-body table th {\n  padding: 6px 13px;\n  border: 1px solid #dfe2e5;\n}\n\n.markdown-body table tr {\n  background-color: #fff;\n  border-top: 1px solid #c6cbd1;\n}\n\n.markdown-body table tr:nth-child(2n) {\n  background-color: #f6f8fa;\n}\n\n.markdown-body img {\n  max-width: 100%;\n  box-sizing: initial;\n  background-color: #fff;\n}\n\n.markdown-body p \u003e img {\n  display: block;\n  margin: 0 auto;\n}\n\n.markdown-body img[align\u003dright] {\n  padding-left: 20px;\n}\n\n.markdown-body img[align\u003dleft] {\n  padding-right: 20px;\n}\n\n.markdown-body code {\n  padding: .2em .4em;\n  margin: 0;\n  font-size: 85%;\n  background-color: rgba(27,31,35,.05);\n  border-radius: 3px;\n}\n\n.markdown-body pre {\n  word-wrap: normal;\n}\n\n.markdown-body pre\u003ecode {\n  padding: 0;\n  margin: 0;\n  font-size: 100%;\n  word-break: normal;\n  white-space: pre;\n  background: transparent;\n  border: 0;\n}\n\n.markdown-body pre {\n  padding: 16px;\n  overflow: auto;\n  font-size: 85%;\n  line-height: 1.45;\n  background-color: #f6f8fa;\n  border-radius: 3px;\n}\n\n.markdown-body pre code {\n  display: inline;\n  max-width: auto;\n  padding: 0;\n  margin: 0;\n  overflow: visible;\n  line-height: inherit;\n  word-wrap: normal;\n  background-color: initial;\n  border: 0;\n}\n\n.markdown-body mark {\n  display: inline-flex;\n  background-color: #fff8c5;\n}\n          \n        \u003c/style\u003e\n      \u003c/head\u003e\n      \u003cbody\u003e\n        \u003carticle class\u003d\"markdown-body\"\u003e\n          \u003ch1\u003e注意事项\u003c/h1\u003e\n\u003cp\u003e\u003cmark\u003e请使用LittleSkin登录验证！！！\u003c/mark\u003e\u003c/p\u003e\n\u003cp\u003e\u003cmark\u003e仅限HMCL加载\u003c/mark\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href\u003d\"https://github.com/SunRt233/\"\u003e联系作者SunRt233\u003c/a\u003e \u003ca href\u003d\"https://\"\u003e\u003c/a\u003e \u003ca href\u003d\"https://github.com/X-Funny\"\u003e联系作者X-Funny\u003c/a\u003e\u003c/p\u003e\n\n        \u003c/article\u003e\n      \u003c/body\u003e\n      \u003c/html\u003e",
   "fileApi": "https://ghproxy.com/https://raw.githubusercontent.com/SunRt233/NetLandUpdateSite/main/modpack",
   "files": [
+    {
+      "path": "config/appleskin.json5",
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
+    },
     {
       "path": "config/appliedenergistics2/client.json",
       "hash": "e29becc9f7b2c3e72438b33a7277d3b50d218d40"
@@ -12,6 +16,10 @@
     {
       "path": "config/appliedenergistics2/common.json",
       "hash": "eac624d4dee5cfe003234b04f4d7b3773807bd53"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "18ba993f9521c17c528821b3c1c5449b5b3f67d0"
     },
     {
       "path": "config/chiselsandbits-client.json",
@@ -67,7 +75,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "b2a9bee6d207b6a8ecc6ecb778805cdab9227141"
+      "hash": "b88a2d866f214bade638a29087cd99a4b61b16c0"
     },
     {
       "path": "config/fallingleaves.json",
@@ -91,19 +99,19 @@
     },
     {
       "path": "config/IC2.ini",
-      "hash": "e77ae7428237b0d26f5893abb1aeee05273177dc"
+      "hash": "3a7382a12b23e504a06bda5b34721a07b8966aa6"
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "835e29253a100d62421c5d6c3d9459acc819c4ca"
+      "hash": "d331af5fa1a588c560e757e06c2927267c0a45b2"
     },
     {
       "path": "config/InventoryHUD/curios.json",
-      "hash": "8320a2040c7a5c230125cd8b75c2ad2b35c94e4d"
+      "hash": "292109cd5d6f1704e4754258363c521104957a68"
     },
     {
       "path": "config/inventoryhud.json",
-      "hash": "928c7d42c0a579cd118527b2b7cf7a4dfee4729b"
+      "hash": "10489355992c2b03292f8a0e4f276841c66a8a37"
     },
     {
       "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
@@ -115,7 +123,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "a48074e63eb68348e4868c016b53d30b89d4bfec"
+      "hash": "1000ace52ae4f5438bee04f3f0a2d39e7eab1a13"
     },
     {
       "path": "config/itemscroller.json",
@@ -131,6 +139,14 @@
     },
     {
       "path": "config/litematica/litematica_172.27.154.224_25565_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+    },
+    {
+      "path": "config/litematica/litematica_netland.sunrt233.top_36757.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+    },
+    {
+      "path": "config/litematica/litematica_netland.sunrt233.top_36757_dim_minecraft_overworld.json",
       "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
     },
     {
@@ -159,6 +175,14 @@
     },
     {
       "path": "config/minihud/172.27.154.224_25565_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+    },
+    {
+      "path": "config/minihud/netland.sunrt233.top_36757.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+    },
+    {
+      "path": "config/minihud/netland.sunrt233.top_36757_dim_minecraft_overworld.json",
       "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
     },
     {
@@ -215,7 +239,7 @@
     },
     {
       "path": "config/shouldersurfing.toml",
-      "hash": "ef077a3862dc1aa9e3a02923e271fd490cea5751"
+      "hash": "1dada8cb57288f124a45cc5856008c137143def1"
     },
     {
       "path": "config/smoothboot.json",
@@ -258,6 +282,10 @@
       "hash": "55a10203bfb41880c604627d0ae6d08682bc64bf"
     },
     {
+      "path": "config/veinmining.json5",
+      "hash": "c5c4badbf542a05b339a8f16a31959922b24c868"
+    },
+    {
       "path": "config/waila/blacklist.json",
       "hash": "1128a7a6ba3b485802dae4c5b9850d313cebc5d3"
     },
@@ -283,19 +311,19 @@
     },
     {
       "path": "journeymap/colorpalette.json",
-      "hash": "095735ae7a212330646ce5371361f6f0b9af2e45"
+      "hash": "5b68afef5868a20227771a42836e8ead70f4d285"
     },
     {
       "path": "journeymap/config/5.9/journeymap.core.config",
-      "hash": "21679323a4bf641f5c3a8c1d4feb162a9c6045d0"
+      "hash": "2c79327e04bf02d618a7af8d4439041c4205955c"
     },
     {
       "path": "journeymap/config/5.9/journeymap.fullmap.config",
-      "hash": "531bf0b212239c7c18b49a2d707f2f4a5cdb33e8"
+      "hash": "6d29bdeefc029a6a78623115c6bbac19e335dacf"
     },
     {
       "path": "journeymap/config/5.9/journeymap.minimap.config",
-      "hash": "a27202ca290c63ddba352bc7f1bd85151870a944"
+      "hash": "64c2fa46d783c3a3528bd4523150cd8f84a32b04"
     },
     {
       "path": "journeymap/config/5.9/journeymap.minimap2.config",
@@ -418,6 +446,10 @@
       "hash": "c2574017b53faff1f1ac2a46ee7baca234e62400"
     },
     {
+      "path": "mods/[JEK]justenoughkeys-0.5.3-fabric.jar",
+      "hash": "02fc543195e9d05a26e3255492ea054a30391bcd"
+    },
+    {
       "path": "mods/[MASA-前置]malilib-fabric-1.18.2-0.12.1.jar",
       "hash": "a810cf1f28751ac2681ab94a1f00b58c49884649"
     },
@@ -502,10 +534,6 @@
       "hash": "f10c97250cbe6367c4e5f4899474b993bab26cd2"
     },
     {
-      "path": "mods/[延时摄影]replaymod-1.18.1-2.6.10.jar.disabled",
-      "hash": "6b71888ce63c53c34c80dbad3d8d9f09ab489499"
-    },
-    {
       "path": "mods/[我能挖它吗]can-i-mine-this-block-1.2.0.jar",
       "hash": "7ff3f825d9f2aea41eb359bdc036d52818ff2bea"
     },
@@ -552,6 +580,10 @@
     {
       "path": "mods/[移动物品动画]Fabric-1.18-SmoothSwapping-0.4.4.jar",
       "hash": "1078b602073479277cb110c20c17b86db55741e6"
+    },
+    {
+      "path": "mods/[聊天头像]chat_heads-0.6.0-fabric-1.18.1.jar",
+      "hash": "1eb9384863f5993fe075829f99d7e702b438af16"
     },
     {
       "path": "mods/[自定义局域网联机]lanserverproperties-1.7.1-fabric.jar",
@@ -606,8 +638,16 @@
       "hash": "438c8a8bc586fc751cf8cdc822c3c75fcdc912a5"
     },
     {
+      "path": "options.justenoughkeys.txt",
+      "hash": "b4d6e89276a979a46f098cdf9e551fd3ad8a9588"
+    },
+    {
       "path": "patchouli_data.json",
       "hash": "f7f20952debeaa664d473b5d6cd85e6e30edd501"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "f810e0770e88f0034974d84d519560660b32db5a"
     }
   ],
   "addons": [

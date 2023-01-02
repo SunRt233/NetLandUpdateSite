@@ -1,0 +1,103 @@
+modifiers.key.attack:
+modifiers.key.use:
+modifiers.key.forward:
+modifiers.key.left:
+modifiers.key.back:
+modifiers.key.right:
+modifiers.key.jump:
+modifiers.key.sneak:
+modifiers.key.sprint:
+modifiers.key.drop:
+modifiers.key.inventory:
+modifiers.key.chat:
+modifiers.key.playerlist:
+modifiers.key.pickItem:
+modifiers.key.command:
+modifiers.key.socialInteractions:
+modifiers.key.screenshot:
+modifiers.key.togglePerspective:
+modifiers.key.smoothCamera:
+modifiers.key.fullscreen:
+modifiers.key.spectatorOutlines:
+modifiers.key.swapOffhand:
+modifiers.key.saveToolbarActivator:
+modifiers.key.loadToolbarActivator:
+modifiers.key.advancements:
+modifiers.key.hotbar.1:
+modifiers.key.hotbar.2:
+modifiers.key.hotbar.3:
+modifiers.key.hotbar.4:
+modifiers.key.hotbar.5:
+modifiers.key.hotbar.6:
+modifiers.key.hotbar.7:
+modifiers.key.hotbar.8:
+modifiers.key.hotbar.9:
+modifiers.key.firstperson.toggle:
+modifiers.ALT Key:
+modifiers.Boost Key:
+modifiers.Mode Switch Key:
+modifiers.Side Inventory Key:
+modifiers.Hub Expand Key:
+modifiers.key.ae2.wireless_terminal:
+modifiers.key.ae2.portable_item_cell:
+modifiers.key.ae2.portable_fluid_cell:
+modifiers.mod.chiselsandbits.keys.key.modded-tool.open:
+modifiers.mod.chiselsandbits.keys.key.modded-tool.cycle.left:
+modifiers.mod.chiselsandbits.keys.key.modded-tool.cycle.right:
+modifiers.mod.chiselsandbits.keys.key.measuring-tape.reset:
+modifiers.mod.chiselsandbits.keys.key.undo:
+modifiers.mod.chiselsandbits.keys.key.redo:
+modifiers.mod.chiselsandbits.keys.key.zoom:
+modifiers.mod.chiselsandbits.keys.reset-caches:
+modifiers.create.keyinfo.toolmenu:
+modifiers.create.keyinfo.toolbelt:
+modifiers.key.diggusmaximus.keybind.excavate:
+modifiers.key.diggusmaximus.keybind.shapeexcavate:
+modifiers.key.diggusmaximus.keybind.cycleshape:
+modifiers.key.entityculling.toggle:
+modifiers.key.inventoryhud.toggle:
+modifiers.key.inventoryhud.openconfig:
+modifiers.key.inventoryhud.togglepot:
+modifiers.key.inventoryhud.togglearm:
+modifiers.key.inventoryhud.toggleall:
+modifiers.key.journeymap.zoom_in:
+modifiers.key.journeymap.zoom_out:
+modifiers.key.journeymap.minimap_type:
+modifiers.key.journeymap.minimap_preset:
+modifiers.key.journeymap.create_waypoint:
+modifiers.key.journeymap.toggle_waypoints:
+modifiers.key.journeymap.fullscreen_create_waypoint:
+modifiers.key.journeymap.fullscreen_chat_position:key.keyboard.left.alt
+modifiers.key.journeymap.map_toggle_alt:
+modifiers.key.journeymap.fullscreen_waypoints:
+modifiers.key.journeymap.minimap_toggle_alt:
+modifiers.key.journeymap.fullscreen_options:key.keyboard.left.alt
+modifiers.key.journeymap.fullscreen.north:
+modifiers.key.journeymap.fullscreen.south:
+modifiers.key.journeymap.fullscreen.east:
+modifiers.key.journeymap.fullscreen.west:
+modifiers.key.journeymap.fullscreen.disable_buttons:
+modifiers.key.justenoughkeys.dropstack:key.keyboard.left.control
+modifiers.key.origins.primary_active:
+modifiers.key.origins.secondary_active:
+modifiers.key.origins.view_origin:key.keyboard.left.shift,key.keyboard.left.control
+modifiers.Camera left:
+modifiers.Camera right:
+modifiers.Camera closer:
+modifiers.Camera farther:
+modifiers.Camera up:
+modifiers.Camera down:
+modifiers.Swap shoulder:
+modifiers.Toggle perspective:
+modifiers.key.travelersbackpack.inventory:
+modifiers.key.travelersbackpack.toggle_tank:key.keyboard.left.control
+modifiers.key.travelersbackpack.cycle_tool:key.keyboard.left.control
+modifiers.key.veinmining.activate.desc:
+modifiers.key.waila.config:
+modifiers.key.waila.show_overlay:
+modifiers.key.waila.toggle_liquid:
+modifiers.key.waila.show_recipe_input:
+modifiers.key.waila.show_recipe_output:
+modifiers.iris.keybind.reload:key.keyboard.left.control
+modifiers.iris.keybind.toggleShaders:
+modifiers.iris.keybind.shaderPackSelection:key.keyboard.left.control
