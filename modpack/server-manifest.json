@@ -122,10 +122,6 @@
       "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
     },
     {
-      "path": "config/iris.properties",
-      "hash": "1000ace52ae4f5438bee04f3f0a2d39e7eab1a13"
-    },
-    {
       "path": "config/itemscroller.json",
       "hash": "2ecd3362283b85a9c65ab663946aad2f9e07b0f8"
     },
@@ -248,14 +244,6 @@
     {
       "path": "config/smoothswapping.json",
       "hash": "a3b135f7908c976b5433882a3c5e17a06a0c030f"
-    },
-    {
-      "path": "config/sodium-mixins.properties",
-      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98"
-    },
-    {
-      "path": "config/sodium-options.json",
-      "hash": "93ca40d20769fef06a59a289f0d90d7377ce44cc"
     },
     {
       "path": "config/Spectrum.json5",
