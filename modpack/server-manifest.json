@@ -446,6 +446,10 @@
 			"hash": "7f51e9a06bed4875981f883167d305adbb1c96a5"
 		},
 		{
+			"path": "mods/create-fabric-1.18.2-0.5.0e-733.jar",
+			"hash": "7081e2440c669818bf8056141398b5a2ae6394de"
+		},
+		{
 			"path": "mods/fabric-api-0.67.0+1.18.2.jar",
 			"hash": "31174f7510f15ceddd3b449da4bffc0c2c589a4b"
 		},
@@ -592,10 +596,6 @@
 		{
 			"path": "mods/[更真实的第一人称模型]firstperson-fabric-2.2.1-mc1.18.2.jar",
 			"hash": "271fc7aa8c3ecaf9508cbedcecbcd07e4b9cb179"
-		},
-		{
-			"path": "mods/[机械动力]create-fabric-0.5.0g-792+1.18.2.jar",
-			"hash": "e009a6c6a5d772020648863c30df7e714fe66583"
 		},
 		{
 			"path": "mods/[物品栏HUD+]InventoryHUD-fabric-[1.18]+-3.4.2.jar",
