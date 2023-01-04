@@ -19,7 +19,7 @@
 		},
 		{
 			"path": "config/betterpingdisplay.json",
-			"hash": "51a7efebd32597a49b4c6f151b36845182ab339a"
+			"hash": "a652c1cbd71efa88785675019bc73f80b139f54f"
 		},
 		{
 			"path": "config/chat_heads.json5",
@@ -55,7 +55,7 @@
 		},
 		{
 			"path": "config/diggusmaximus/excavatingshapes.json5",
-			"hash": "7ad13ae4adb5b3a959c181e3af1a1c8e9e5eb73e"
+			"hash": "8aa8e2075f4ae792f8e547aff420d9ea945e45b3"
 		},
 		{
 			"path": "config/diggusmaximus/grouping.json5",
@@ -111,7 +111,7 @@
 		},
 		{
 			"path": "config/inventoryhud.json",
-			"hash": "34e735d5d3a8ace3eebb1e57fa0243c78daa7489"
+			"hash": "4f4b839d9648fcd8d44b21b7084ea36e452b6c79"
 		},
 		{
 			"path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
@@ -119,7 +119,7 @@
 		},
 		{
 			"path": "config/inventoryprofilesnext/inventoryprofiles.json",
-			"hash": "ee8c23b924136a807f00662d312f7337cba0303d"
+			"hash": "3dab969f1a66b978045f0b7e8920af1fc081d7fe"
 		},
 		{
 			"path": "config/itemscroller.json",
@@ -139,11 +139,11 @@
 		},
 		{
 			"path": "config/litematica/litematica_192.168.31.216_32768.json",
-			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
 		},
 		{
 			"path": "config/litematica/litematica_192.168.31.216_32768_dim_minecraft_overworld.json",
-			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
 		},
 		{
 			"path": "config/litematica/litematica_netland.sunrt233.top_36757.json",
@@ -155,19 +155,19 @@
 		},
 		{
 			"path": "config/litematica/litematica_netland2.sunrt233.top_36757.json",
-			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
 		},
 		{
 			"path": "config/litematica/litematica_netland2.sunrt233.top_36757_dim_minecraft_overworld.json",
-			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
 		},
 		{
 			"path": "config/litematica/litematica_netland3.sunrt233.top_32768.json",
-			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
 		},
 		{
 			"path": "config/litematica/litematica_netland3.sunrt233.top_32768_dim_minecraft_overworld.json",
-			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
 		},
 		{
 			"path": "config/litematica/litematica_____.json",
@@ -199,11 +199,11 @@
 		},
 		{
 			"path": "config/minihud/192.168.31.216_32768.json",
-			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
 		},
 		{
 			"path": "config/minihud/192.168.31.216_32768_dim_minecraft_overworld.json",
-			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
 		},
 		{
 			"path": "config/minihud/netland.sunrt233.top_36757.json",
@@ -215,19 +215,19 @@
 		},
 		{
 			"path": "config/minihud/netland2.sunrt233.top_36757.json",
-			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
 		},
 		{
 			"path": "config/minihud/netland2.sunrt233.top_36757_dim_minecraft_overworld.json",
-			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
 		},
 		{
 			"path": "config/minihud/netland3.sunrt233.top_32768.json",
-			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
 		},
 		{
 			"path": "config/minihud/netland3.sunrt233.top_32768_dim_minecraft_overworld.json",
-			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
 		},
 		{
 			"path": "config/minihud/____.json",
@@ -239,7 +239,7 @@
 		},
 		{
 			"path": "config/minihud.json",
-			"hash": "6d770326240fb309964f70b41bfb42fe74bddc55"
+			"hash": "2b6edf029ebfac03a519f354dcbbf8923094fd4f"
 		},
 		{
 			"path": "config/modmenu.json",
@@ -275,7 +275,7 @@
 		},
 		{
 			"path": "config/roughlyenoughitems/config.json5",
-			"hash": "2d1c3b9b2f61bf9fffbbc45203d14623a9d73b71"
+			"hash": "25e189de8383181ae18a19ae9f9228e9f0db890f"
 		},
 		{
 			"path": "config/rrp.properties",
@@ -331,15 +331,15 @@
 		},
 		{
 			"path": "hmclversion.cfg",
-			"hash": "1e2c99aa0706473b37e47e475ee2e9ea163efaa3"
+			"hash": "fe6218b3bf02e8d1be44cf5761af9348267c4eb3"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.core.config",
-			"hash": "1d2eb39b38e349166b88ba7b2014d475a2b97c3c"
+			"hash": "a01d354b3e5d1e4a45bb21225121c3e419247096"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.fullmap.config",
-			"hash": "b4f29530066a5d1a9fc00d125662a166068d906d"
+			"hash": "2029cd4e43136d2652eb43506d1e2a9b80073465"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.minimap.config",
@@ -436,6 +436,10 @@
 		{
 			"path": "mods/cloth-config-6.4.90-fabric.jar",
 			"hash": "4c88bab53b54736e87776b2b1c13343a70d43114"
+		},
+		{
+			"path": "mods/collective-fabric-1.18.2-5.45.jar",
+			"hash": "bea5867d354e33a4ef3b7cc922f6a0586d23e130"
 		},
 		{
 			"path": "mods/CraftTweaker-forge-1.18.2-9.1.197.jar",
