@@ -67,11 +67,11 @@ modifiers.key.journeymap.minimap_preset:
 modifiers.key.journeymap.create_waypoint:
 modifiers.key.journeymap.toggle_waypoints:
 modifiers.key.journeymap.fullscreen_create_waypoint:
-modifiers.key.journeymap.fullscreen_chat_position:key.keyboard.left.alt
+modifiers.key.journeymap.fullscreen_chat_position:
 modifiers.key.journeymap.map_toggle_alt:
 modifiers.key.journeymap.fullscreen_waypoints:
 modifiers.key.journeymap.minimap_toggle_alt:
-modifiers.key.journeymap.fullscreen_options:key.keyboard.left.alt
+modifiers.key.journeymap.fullscreen_options:
 modifiers.key.journeymap.fullscreen.north:
 modifiers.key.journeymap.fullscreen.south:
 modifiers.key.journeymap.fullscreen.east:
@@ -80,7 +80,7 @@ modifiers.key.journeymap.fullscreen.disable_buttons:
 modifiers.key.justenoughkeys.dropstack:key.keyboard.left.control
 modifiers.key.origins.primary_active:
 modifiers.key.origins.secondary_active:
-modifiers.key.origins.view_origin:key.keyboard.left.shift,key.keyboard.left.control
+modifiers.key.origins.view_origin:
 modifiers.Camera left:
 modifiers.Camera right:
 modifiers.Camera closer:
@@ -90,14 +90,13 @@ modifiers.Camera down:
 modifiers.Swap shoulder:
 modifiers.Toggle perspective:
 modifiers.key.travelersbackpack.inventory:
-modifiers.key.travelersbackpack.toggle_tank:key.keyboard.left.control
-modifiers.key.travelersbackpack.cycle_tool:key.keyboard.left.control
-modifiers.key.veinmining.activate.desc:
+modifiers.key.travelersbackpack.toggle_tank:
+modifiers.key.travelersbackpack.cycle_tool:
 modifiers.key.waila.config:
 modifiers.key.waila.show_overlay:
 modifiers.key.waila.toggle_liquid:
 modifiers.key.waila.show_recipe_input:
 modifiers.key.waila.show_recipe_output:
-modifiers.iris.keybind.reload:key.keyboard.left.control
+modifiers.iris.keybind.reload:
 modifiers.iris.keybind.toggleShaders:
-modifiers.iris.keybind.shaderPackSelection:key.keyboard.left.control
+modifiers.iris.keybind.shaderPackSelection:

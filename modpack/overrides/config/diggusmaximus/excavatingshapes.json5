@@ -1,12 +1,12 @@
 {
 	// Should shape excavating be enabled
-	"enableShapes": false,
+	"enableShapes": true,
 	// Should shape excavating include different blocks
 	"includeDifBlocks": false,
 	// Shape activation key
-	"shapeKey": "key.keyboard.unknown",
+	"shapeKey": "key.keyboard.minus",
 	// Shape type cycle key, sneak to reverse cycle
 	"cycleKey": "key.keyboard.unknown",
 	// Currently selected shape
-	"selectedShape": "LAYER"
+	"selectedShape": "ONExTWO_TUNNEL"
 }

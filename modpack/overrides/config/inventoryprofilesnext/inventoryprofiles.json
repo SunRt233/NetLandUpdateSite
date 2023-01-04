@@ -1,5 +1,9 @@
 {
     "ModSettings": {
+        "move_all_at_cursor": false,
         "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
     }
 }
