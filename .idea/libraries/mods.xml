@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="mods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[effective]effective-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MASA-迷你HUD]minihud-fabric-1.18.2-0.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[优化启动]smoothboot-fabric-1.18.2-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MOD菜单]modmenu-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[起源]Origins-1.18.2-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[装饰方块]Decorative+Blocks-fabric-1.18.2-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[起源扩展-东方project]touhouorigins-0.4.3-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[更真实的第一人称模型]firstperson-fabric-2.2.1-mc1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[破坏进度]breakprogress-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[魔女的扫帚]majobroom-1.2.1--1.18.2-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[你在看什么]wthit-fabric-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[苹果皮]appleskin-fabric-mc1.18.2-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/ForgeConfigAPIPort-v3.2.4-1.18.2-Fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[帕秋莉手册]Patchouli-1.18.2-71.1-FABRIC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/trinkets-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[JEK]justenoughkeys-0.5.3-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/fabric-api-0.67.0+1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/owo-lib-0.7.2-no-cme+1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MASA-辅助]tweakeroo-fabric-1.18.2-0.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[我能挖它吗]can-i-mine-this-block-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[机械动力]create-fabric-0.5.0g-792+1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/iris-mc1.18.2-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[REI]RoughlyEnoughItems-8.0.442.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MASA-前置]malilib-fabric-1.18.2-0.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[农夫乐事]farmers-delight-fabric-1.18.2-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[工业时代2]industrialcraft-2-2.9.108+ex118-1.18.2-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[整理]InventoryProfilesNext-fabric-1.18.2-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[起源扩展前置]Pehkui-3.6.2+1.14.4-1.19.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[丰富的生态]ecologics-fabric-1.18.2-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[锂]lithium-fabric-mc1.18.2-0.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[移动物品动画]Fabric-1.18-SmoothSwapping-0.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[物品栏HUD+]InventoryHUD-fabric-[1.18]+-3.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[信息提示修复]tooltipfix-1.0.4-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[旅行者背包]travelers-backpack-1.18.2-7.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[应用能源2]appliedenergistics2-fabric-11.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/CraftTweaker-forge-1.18.2-9.1.197.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[REI前置]cloth-config-6.2.57-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[聊天头像]chat_heads-0.6.0-fabric-1.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[自定义局域网联机]lanserverproperties-1.7.1-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[REI前置]architectury-4.1.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[光谱世界]spectrum-1.6.4-1.18.2-leisure_time.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MASA-鼠标手势]itemscroller-fabric-1.18.2-0.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[落叶]fallingleaves-1.11.1+1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/cloth-config-6.4.90-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[钠]sodium-fabric-mc1.18.2-0.4.1+build.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[优化视角外实体]entityculling-fabric-mc1.18-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[铟]indium-1.0.7+mc1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[MASA-投影]litematica-fabric-1.18.2-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[启示录]revelationary-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[雕凿工艺]ChiselsBits-fabric-1.18.2-1.2.116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[磷]phosphor-fabric-mc1.18.x-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[越肩视角重置]ShoulderSurfing-Fabric-1.18.2-2.2.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/cardinal-components-api-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[更好的延迟显示]BetterPingDisplay-Fabric-1.18.2-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[连锁挖掘]diggusmaximus-1.5.6-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[暮色森林]twilightforest-fabric-1.18.2-4.1.313.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[优化方块实体]enhancedblockentities-0.6+1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modpack/overrides/mods/[旅行地图]journeymap-1.18.2-5.9.0-fabric.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
