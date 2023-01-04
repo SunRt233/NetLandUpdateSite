@@ -7,31 +7,35 @@
 	"files": [
 		{
 			"path": "config/appleskin.json5",
-			"hash": "18e3739054b42466a33f5b28649465be9f375f07"
+			"hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
 		},
 		{
 			"path": "config/appliedenergistics2/client.json",
-			"hash": "6da354fb60f0cc0854a1adacabcee2265a5f7578"
+			"hash": "e29becc9f7b2c3e72438b33a7277d3b50d218d40"
 		},
 		{
 			"path": "config/appliedenergistics2/common.json",
-			"hash": "b7836a09397f24085fc3ebe8aee182766c641a1f"
+			"hash": "eac624d4dee5cfe003234b04f4d7b3773807bd53"
+		},
+		{
+			"path": "config/betterpingdisplay.json",
+			"hash": "51a7efebd32597a49b4c6f151b36845182ab339a"
 		},
 		{
 			"path": "config/chat_heads.json5",
-			"hash": "5919360a4913b1d32c472a1eb34c6dcc7d23d58d"
+			"hash": "18ba993f9521c17c528821b3c1c5449b5b3f67d0"
 		},
 		{
 			"path": "config/chiselsandbits-client.json",
-			"hash": "b06b4014017d9f3cb3c2b0d48b5aa49a6dc75ebd"
+			"hash": "19e3e1fec8dd159497f7adcb4f70972d4e4d0f0a"
 		},
 		{
 			"path": "config/chiselsandbits-common.json",
-			"hash": "7c868a96821168870b094e0aa554ad765f0d6248"
+			"hash": "7ef552df7a1cf305bdce1c2b48c388f65bab439f"
 		},
 		{
 			"path": "config/chiselsandbits-server.json",
-			"hash": "da17679cf88c2d58a1a715a8c56a93e5e73de5da"
+			"hash": "4fd760d891310ec3c6084126e8dc21be5e2f4339"
 		},
 		{
 			"path": "config/create-client.toml",
@@ -43,27 +47,27 @@
 		},
 		{
 			"path": "config/diggusmaximus/blacklist.json5",
-			"hash": "f305673af5e621f947b2dec6da02dce2f00e049b"
+			"hash": "5a1f58ba8454a0176a7267b5e07aa5f92ba1e07e"
 		},
 		{
 			"path": "config/diggusmaximus/config.json5",
-			"hash": "95447f234bac737c0d0c36c2135f1f3fcc638b3a"
+			"hash": "433871bcb91462e8009d2aa72a927fea0933f510"
 		},
 		{
 			"path": "config/diggusmaximus/excavatingshapes.json5",
-			"hash": "4ac016efbc784e24c612cacaf2ed449dd3f6a848"
+			"hash": "7ad13ae4adb5b3a959c181e3af1a1c8e9e5eb73e"
 		},
 		{
 			"path": "config/diggusmaximus/grouping.json5",
-			"hash": "40330175efbd96695896f1deacf345c76ed6f11e"
+			"hash": "f46e70cadb12ce44c0baf8072bbf572a7c656226"
 		},
 		{
 			"path": "config/ecologics.json",
-			"hash": "03edad15a2f72290c3fd4d9f2dc84482b097a9b0"
+			"hash": "2db685e0535fcdb07f616df0681aa7c0163468a0"
 		},
 		{
 			"path": "config/effective.json",
-			"hash": "e20c873a956642d0e3b04a83dee3e88b2595819d"
+			"hash": "4f7e9c0e03d8f753897b001741e19379d05386a4"
 		},
 		{
 			"path": "config/enhanced_bes.properties",
@@ -71,39 +75,35 @@
 		},
 		{
 			"path": "config/entityculling.json",
-			"hash": "c8910324020baa920f7143098e7e6459c8258329"
+			"hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf"
 		},
 		{
 			"path": "config/fabric/indigo-renderer.properties",
-			"hash": "b88a2d866f214bade638a29087cd99a4b61b16c0"
+			"hash": "0d983fdd4b85d7056e1cfcb392e46656525e4a41"
 		},
 		{
 			"path": "config/fallingleaves.json",
-			"hash": "edf52b6dfe6612a5c0134b7ef8f464a956103a92"
+			"hash": "9d61069e6932c4c41404e43d9e21fa279a086b57"
 		},
 		{
 			"path": "config/farmersdelight.json",
-			"hash": "b7d405ea918fd6c09d552f8ea996ddccd6a71e7f"
+			"hash": "8f0eefb9a89bae8fa748b945141a97fba77cd9d6"
 		},
 		{
 			"path": "config/firstperson.json",
-			"hash": "0fdc5dd3b772932f06f73f6042fc9a59987054c5"
+			"hash": "8599bcd7ab31cb581b7c4dac50498b36abaff48e"
 		},
 		{
 			"path": "config/flywheel.json",
-			"hash": "c67815c3a23a4ae71be7c77f16d980c536a2029f"
+			"hash": "0bacb5959ae82334b64b71a88a178b368c60dae5"
 		},
 		{
 			"path": "config/healthoverlay.json5",
-			"hash": "ef9b5e6cf0533684eebe11fcfdac01e0259635c8"
-		},
-		{
-			"path": "config/IC2.ini",
-			"hash": "3a7382a12b23e504a06bda5b34721a07b8966aa6"
+			"hash": "223f64b3411e504d3d13f16b3bc3caca15116685"
 		},
 		{
 			"path": "config/indium-renderer.properties",
-			"hash": "d331af5fa1a588c560e757e06c2927267c0a45b2"
+			"hash": "2d5dd38252ce9c39dcd7d690699464b9533e6243"
 		},
 		{
 			"path": "config/InventoryHUD/curios.json",
@@ -111,19 +111,19 @@
 		},
 		{
 			"path": "config/inventoryhud.json",
-			"hash": "e988fbe07d5b0a443b1970382eb517d236cad542"
+			"hash": "34e735d5d3a8ace3eebb1e57fa0243c78daa7489"
 		},
 		{
 			"path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-			"hash": "49bc33f76d76369a7d9268b7fae5de6b94317787"
+			"hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
 		},
 		{
 			"path": "config/inventoryprofilesnext/inventoryprofiles.json",
-			"hash": "4904a7d19ef636008b943d6986c9cc2127e5bc53"
+			"hash": "ee8c23b924136a807f00662d312f7337cba0303d"
 		},
 		{
 			"path": "config/itemscroller.json",
-			"hash": "d26f5fafb7b039851eba1651a6c330396583fecf"
+			"hash": "2ecd3362283b85a9c65ab663946aad2f9e07b0f8"
 		},
 		{
 			"path": "config/journeymap-server.json",
@@ -131,71 +131,119 @@
 		},
 		{
 			"path": "config/litematica/litematica_172.27.154.224_25565.json",
-			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
 		},
 		{
 			"path": "config/litematica/litematica_172.27.154.224_25565_dim_minecraft_overworld.json",
-			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+		},
+		{
+			"path": "config/litematica/litematica_192.168.31.216_32768.json",
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+		},
+		{
+			"path": "config/litematica/litematica_192.168.31.216_32768_dim_minecraft_overworld.json",
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
 		},
 		{
 			"path": "config/litematica/litematica_netland.sunrt233.top_36757.json",
-			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
 		},
 		{
 			"path": "config/litematica/litematica_netland.sunrt233.top_36757_dim_minecraft_overworld.json",
-			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+		},
+		{
+			"path": "config/litematica/litematica_netland2.sunrt233.top_36757.json",
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+		},
+		{
+			"path": "config/litematica/litematica_netland2.sunrt233.top_36757_dim_minecraft_overworld.json",
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
+		},
+		{
+			"path": "config/litematica/litematica_netland3.sunrt233.top_32768.json",
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
+		},
+		{
+			"path": "config/litematica/litematica_netland3.sunrt233.top_32768_dim_minecraft_overworld.json",
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
 		},
 		{
 			"path": "config/litematica/litematica_____.json",
-			"hash": "1860e3d6513fe9be7b913d019a65b8659c388e8d"
+			"hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
 		},
 		{
 			"path": "config/litematica/litematica______dim_minecraft_overworld.json",
-			"hash": "4c98318503527d12724e0708b5ce7dd3d8e2ec04"
+			"hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
 		},
 		{
 			"path": "config/litematica.json",
-			"hash": "24cdcaf3b8b5ad9d4b402313ee399f7fb40c17fe"
+			"hash": "7eff81ff7835dc6fedb76ae86899f830554778d6"
 		},
 		{
 			"path": "config/lithium.properties",
-			"hash": "b770c2ac17344214f6cc4dfa0b401db2c618ad9b"
+			"hash": "f88c169d1249c0a4ae8f90bc80a42491012876b1"
 		},
 		{
 			"path": "config/malilib.json",
-			"hash": "22d18b8c7c9501baf8480cd3f85c9bb212ad9c0d"
+			"hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
 		},
 		{
 			"path": "config/minihud/172.27.154.224_25565.json",
-			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
 		},
 		{
 			"path": "config/minihud/172.27.154.224_25565_dim_minecraft_overworld.json",
-			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+		},
+		{
+			"path": "config/minihud/192.168.31.216_32768.json",
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+		},
+		{
+			"path": "config/minihud/192.168.31.216_32768_dim_minecraft_overworld.json",
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
 		},
 		{
 			"path": "config/minihud/netland.sunrt233.top_36757.json",
-			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
 		},
 		{
 			"path": "config/minihud/netland.sunrt233.top_36757_dim_minecraft_overworld.json",
-			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+		},
+		{
+			"path": "config/minihud/netland2.sunrt233.top_36757.json",
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+		},
+		{
+			"path": "config/minihud/netland2.sunrt233.top_36757_dim_minecraft_overworld.json",
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
+		},
+		{
+			"path": "config/minihud/netland3.sunrt233.top_32768.json",
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
+		},
+		{
+			"path": "config/minihud/netland3.sunrt233.top_32768_dim_minecraft_overworld.json",
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
 		},
 		{
 			"path": "config/minihud/____.json",
-			"hash": "a96fd2f7d4bcd33c54fc3d7f80f5e473b85613f3"
+			"hash": "63334c29f8821e7373ea30d1056de2651da42a93"
 		},
 		{
 			"path": "config/minihud/_____dim_minecraft_overworld.json",
-			"hash": "f662dff1078c4d1f0b7805e7a4e7133ef421bd92"
+			"hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
 		},
 		{
 			"path": "config/minihud.json",
-			"hash": "2036961c3254e843ee793abaada3d3709f0af1b9"
+			"hash": "6d770326240fb309964f70b41bfb42fe74bddc55"
 		},
 		{
 			"path": "config/modmenu.json",
-			"hash": "b2c1acaab6de33d124a1bd4693d5bb3fb70ec080"
+			"hash": "f1a7dfb4f729640a7d7dfdaf0b9ab07e43ab3daa"
 		},
 		{
 			"path": "config/noindium.json",
@@ -203,11 +251,11 @@
 		},
 		{
 			"path": "config/origins_server.toml",
-			"hash": "7e349cd1f7d4f8e0abb0a7fee8ccbcd43d73f6ab"
+			"hash": "3ffd9504d55d835b848cc356230108cae950bbec"
 		},
 		{
 			"path": "config/patchouli.json5",
-			"hash": "514013cee37d067d14f9d366ad5b4e55d214446e"
+			"hash": "b0a30ff8793c17d486928c552114fd120155c04d"
 		},
 		{
 			"path": "config/pehkui/config.json",
@@ -215,11 +263,11 @@
 		},
 		{
 			"path": "config/power_config.json5",
-			"hash": "b2e0a24fc5b95289b89a574d088f8059ce5f66ca"
+			"hash": "e123e7a9dc0b23bba5e35c5718ec398c13492982"
 		},
 		{
 			"path": "config/replaymod.json",
-			"hash": "3f5f8a7bb43a274be2774a23017fa88db5061d48"
+			"hash": "636113892048482214e1810bdf19931da6a98ced"
 		},
 		{
 			"path": "config/roughlyenoughitems/changelog.txt",
@@ -227,7 +275,7 @@
 		},
 		{
 			"path": "config/roughlyenoughitems/config.json5",
-			"hash": "0c6b46355f5ea450f53683cc9df57af3ef941c14"
+			"hash": "2d1c3b9b2f61bf9fffbbc45203d14623a9d73b71"
 		},
 		{
 			"path": "config/rrp.properties",
@@ -235,31 +283,31 @@
 		},
 		{
 			"path": "config/shouldersurfing.toml",
-			"hash": "1dada8cb57288f124a45cc5856008c137143def1"
+			"hash": "5ff6404c45344ffbc98fdbd11fd7bef401a3966e"
 		},
 		{
 			"path": "config/smoothboot.json",
-			"hash": "be4b390d2961c5802d2927b29cee0795ad7ae3c0"
+			"hash": "5c85021a37c081113236571a077bae45b9d9cdb1"
 		},
 		{
 			"path": "config/smoothswapping.json",
-			"hash": "da880baf81af40a51c2a4fef1b93f81023016192"
+			"hash": "a3b135f7908c976b5433882a3c5e17a06a0c030f"
 		},
 		{
 			"path": "config/Spectrum.json5",
-			"hash": "232586220aec6501712be558f3ebd40f94d6d9c5"
+			"hash": "ed5570c2ade01261cc704af947e5e7414a64cc30"
 		},
 		{
 			"path": "config/tr7zwDonorSettings.json",
-			"hash": "d73029f7d7dcc291fc884cfd06a7f8c8efbf494f"
+			"hash": "6d1993e730a8f0e0b531b49bf0014fb9cdbc2f8f"
 		},
 		{
 			"path": "config/travelersbackpack.json5",
-			"hash": "0c489154b40fe5d549870765eee77ec5433a1087"
+			"hash": "2b4d0abe56622b5d33589c1336f5d65f39460f7a"
 		},
 		{
 			"path": "config/tweakeroo.json",
-			"hash": "4d191a52c751b8f7127ce9e75903813cb15ec2fb"
+			"hash": "e9b3d32fa028c2be6f45b3d2acc727625be17d02"
 		},
 		{
 			"path": "config/twilightforest-client.toml",
@@ -270,132 +318,116 @@
 			"hash": "55a10203bfb41880c604627d0ae6d08682bc64bf"
 		},
 		{
-			"path": "config/veinmining.json5",
-			"hash": "a854914ce699f41653dd041303775f3aa3286ee8"
-		},
-		{
 			"path": "config/waila/blacklist.json",
-			"hash": "c751a84bd984a17f747a37f54e9a6f47525d70dc"
+			"hash": "1128a7a6ba3b485802dae4c5b9850d313cebc5d3"
 		},
 		{
 			"path": "config/waila/waila.json",
-			"hash": "11232cf6bbbcf623f47eaf0ee044fc2d87220a33"
+			"hash": "73b9767e4084296ca1a33cd3eccb6384f9728003"
 		},
 		{
 			"path": "config/waila/waila_plugins.json",
-			"hash": "e887d228e57e813e8af1b3ff5cbc60b2b58b7c84"
+			"hash": "b17f37a886b53e86ef9fa43483cc6f010fd7cbcb"
 		},
 		{
 			"path": "hmclversion.cfg",
-			"hash": "19cfe8e6f18aa898a4584a148f01123a469956a9"
-		},
-		{
-			"path": "irisUpdateInfo.json",
-			"hash": "70797e028692ec5a73c42a064f2b5f66e3630f89"
-		},
-		{
-			"path": "journeymap/colorpalette.html",
-			"hash": "3b9fe129ee0666959744b33e1d77bae7e6476f56"
-		},
-		{
-			"path": "journeymap/colorpalette.json",
-			"hash": "5b68afef5868a20227771a42836e8ead70f4d285"
+			"hash": "1e2c99aa0706473b37e47e475ee2e9ea163efaa3"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.core.config",
-			"hash": "d2d792cff20cf005be5244a06a49d98b74c3f462"
+			"hash": "1d2eb39b38e349166b88ba7b2014d475a2b97c3c"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.fullmap.config",
-			"hash": "6c808c314760693b52f8c6bb99cc2c9622b31328"
+			"hash": "b4f29530066a5d1a9fc00d125662a166068d906d"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.minimap.config",
-			"hash": "d04fd57354a49be7d5197d79ddbcf7e882286bf1"
+			"hash": "64c2fa46d783c3a3528bd4523150cd8f84a32b04"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.minimap2.config",
-			"hash": "112e4fe3ca0e47c84c164f4b7aac1f837a1c433f"
+			"hash": "625ec90887694c3b7b93aa5df1e4f935e4e48d13"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.topo.config",
-			"hash": "d8d1c4ebda429290d46a2b0db596bbb4a44790f2"
+			"hash": "8c060f01ec3f1a34049021305cca69b5399945c6"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.waypoint.config",
-			"hash": "c155a345c5302a5104a6ff75aa61c1bc743785f5"
+			"hash": "384d2ebd7ad500ca9063b34db8f7c776beca6bd5"
 		},
 		{
 			"path": "journeymap/config/5.9/journeymap.webmap.config",
-			"hash": "c96307c879cc536194e5f7466580c9d9b871ff5f"
+			"hash": "62554551ad04424133599a6fbb9a0ae84812930b"
 		},
 		{
 			"path": "journeymap/icon/theme/default.theme.config",
-			"hash": "b1a1fd6945cbc7d078ea78dcfc23e91c5340952c"
+			"hash": "3bd6fa9af17717b6d0ccce4133b35f7626d4456d"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/DesertTemple.theme2.json",
-			"hash": "44e763c717fad1ce9228e000cdcbe553554d7ce0"
+			"hash": "a3d83b043da95ad37da725188ceeb366757fbfe9"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/EndCity.theme2.json",
-			"hash": "53e14273178db346b05d16005ce757038e40e8f8"
+			"hash": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/ForestMansion.theme2.json",
-			"hash": "ffa6f00c8ede845a4809271912a8808ea830bf32"
+			"hash": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/NetherFortress.theme2.json",
-			"hash": "e22bd41e938672e59ca6cb53d8102f235706bc8c"
+			"hash": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/OceanMonument.theme2.json",
-			"hash": "e34cfac062cc5f4dd717925e83103fe59b6b2a10"
+			"hash": "29b64ee8830fc876491e134f1f6485bfaac27f64"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/Purist.theme2.json",
-			"hash": "eee6f52b79f841aa2dd3128c5a9875e65b3f26e5"
+			"hash": "6889bb94b1f6d74d3eb392599593a011ee2670b8"
 		},
 		{
 			"path": "journeymap/icon/theme/flat/Stronghold.theme2.json",
-			"hash": "7e8742daeee772e4531ad70909ed58a6e95af5aa"
+			"hash": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.ae2~spatial_storage.config",
-			"hash": "d9726750e6c3031f0770cbcea1c1740117ef0b02"
+			"hash": "9e22bffd7b6d74df7f7e3c44c4914f382a106e15"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.default.config",
-			"hash": "ebd6dbb4b4ee939e254b9da0d7a1e9b9651e9af4"
+			"hash": "ca8913c039c631796f4d390308df0d5e9302f5fa"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.global.config",
-			"hash": "d1dabb5d3b56dbf2baedc18988fed189f4689ecc"
+			"hash": "d6b12bb5269462729bf6a0cbb3d3e1a56b556bdd"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.minecraft~overworld.config",
-			"hash": "12f22ed08ab7590ce59b9e0cf1cb71d34999817b"
+			"hash": "c95cf7b67f3f13428ec1d5f7ec24babd0b54fe7a"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.minecraft~the_end.config",
-			"hash": "2f1e1df0ac51857a86bcd2177e2a78f5d734c24e"
+			"hash": "a1beb19153280d6d3958fce7303bb6285e102455"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.minecraft~the_nether.config",
-			"hash": "2200e2e6fcafa2469f2f854b84afc37e25f34dd5"
+			"hash": "fdce3a5f759af2682f341780756763071ce83f86"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.spectrum~deeper_down_dimension.config",
-			"hash": "b181abb33881e2c6e57b02470b7234e8b7aac490"
+			"hash": "cc6e2d02de7a2b621f42e082407ae2ea0da56cf9"
 		},
 		{
 			"path": "journeymap/server/5.9/journeymap.server.twilightforest~twilight_forest.config",
-			"hash": "d75a5edcc0c0f59f879f7f8859c1edd4a4332b21"
+			"hash": "174323242cb304a9c9e60f804657040afb8fdb9b"
 		},
 		{
-			"path": "log4j2.xml",
-			"hash": "1557391649ec00528fd2383366be141279b28321"
+			"path": "mods/balm-fabric-3.2.1+0.jar",
+			"hash": "cc2ea16969ce938c518804ee37937d6abb79313f"
 		},
 		{
 			"path": "mods/cardinal-components-api-4.1.4.jar",
@@ -490,6 +522,10 @@
 			"hash": "d1b944079c193a8d5adf9144cab3bd762bb12f5e"
 		},
 		{
+			"path": "mods/[传送石碑]waystones-fabric-1.18.2-10.1.0.jar",
+			"hash": "3118fb51713aac4c3cb8997cdfa74113434bb4bb"
+		},
+		{
 			"path": "mods/[你在看什么]wthit-fabric-4.8.0.jar",
 			"hash": "e340f9f3752f881ce71599c8675d0bed9bfc2eb7"
 		},
@@ -504,6 +540,10 @@
 		{
 			"path": "mods/[农夫乐事]farmers-delight-fabric-1.18.2-1.2.5.jar",
 			"hash": "5d61dcbe0cd8840e5a1aa522cc34365d29b00ee6"
+		},
+		{
+			"path": "mods/[可修复的铁砧]anvilrestoration-fabric_1.18.2-1.7.jar",
+			"hash": "3cb7ce01b36e856d3c0cdb5cff05009a0e20d8b0"
 		},
 		{
 			"path": "mods/[启示录]revelationary-1.1.0.jar",
@@ -631,19 +671,15 @@
 		},
 		{
 			"path": "options.justenoughkeys.txt",
-			"hash": "b4d6e89276a979a46f098cdf9e551fd3ad8a9588"
-		},
-		{
-			"path": "patchouli_data.json",
-			"hash": "d387671e148de7907e9f2416c9bdd6a11641d080"
+			"hash": "dea09f9760934b3181f2f138e563d67454632fb9"
 		},
 		{
 			"path": "servers.dat",
-			"hash": "ba82c6aeb5b4d4420ac1e619d22f09d420f07276"
+			"hash": "bd97ca42ff7ddb362f3f1aaf97897abba723d662"
 		},
 		{
-			"path": "新建 文本文档.txt",
-			"hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+			"path": "shaderpacks/ComplementaryShaders_v4.3.3.zip",
+			"hash": "81f7acad6128753450dc88e8e6d0becd252caace"
 		}
 	],
 	"addons": [
