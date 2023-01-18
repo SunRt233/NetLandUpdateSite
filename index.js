@@ -17,7 +17,7 @@ function hashFile(filepath, rootpath) {
             let hash = crypto.createHash(ALGORITHM).update(bin).digest('hex')
             result.push(
                 {
-                    path: _path.relative(_path.normalize(rootpath), path).replaceAll('\\','/'),
+                    path: _path.relative(_path.normalize(rootpath), path),
                     hash: hash
                 })
         }
